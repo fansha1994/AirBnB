@@ -1,2 +1,2 @@
 # AirBnB
-predicting prices for customers basing on different features
+predicting prices for customers based on different features
